@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,media.discordapp.net
 DOMAIN-SUFFIX,images-ext-2.discordapp.net
 DOMAIN-SUFFIX,images-ext-1.discordapp.net
 DOMAIN-SUFFIX,discord.media
+# Discord HK
+43.239.137.0/24
