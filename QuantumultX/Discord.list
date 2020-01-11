@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,media.discordapp.net,Discord
 DOMAIN-SUFFIX,images-ext-2.discordapp.net,Discord
 DOMAIN-SUFFIX,images-ext-1.discordapp.net,Discord
 DOMAIN-SUFFIX,discord.media,Discord
+IP-CIDR,43.239.137.0/24,Discord
