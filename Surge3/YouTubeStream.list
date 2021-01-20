@@ -1,2 +1,3 @@
 #YoutubeStream
-DOMAIN-SUFFIX,*.rtmp.youtube.com
+DOMAIN,a.rtmp.youtube.com
+DOMAIN,b.rtmp.youtube.com
