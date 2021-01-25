@@ -1,2 +1,2 @@
 #Microsoft SharePoint
-#DOMAIN-SUFFIX,*.sharepoint.com
+DOMAIN-SUFFIX,*.sharepoint.com
