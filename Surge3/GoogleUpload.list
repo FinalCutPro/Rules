@@ -1,4 +1,4 @@
 #GoogleUpload
 DOMAIN,photos.google.com
-DOMAIN,www.googleapis.com #GoogleDrive Business
-DOMAIN,clients6.google.com #GoogleDrive Persional
+DOMAIN,www.googleapis.com
+DOMAIN,clients6.google.com
